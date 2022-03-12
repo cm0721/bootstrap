@@ -1,0 +1,12 @@
+.caja{
+     margin: 0% auto;
+    width: 50%;
+}
+body{ 
+    background: lightblue;
+}
+
+.row div[class^="col"]{
+        background-color: lightpink;
+        border: solid 0.1em #000
+}
